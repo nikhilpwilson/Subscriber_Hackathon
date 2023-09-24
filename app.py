@@ -8,7 +8,7 @@ warnings.filterwarnings('ignore')
 
 
 df = pd.read_csv('C:/Users/User/inceptez/subscriber/train.csv')
-model = joblib.load('C:/Users/User/inceptez/subscriber/preprocess_model.pkl')
+
 
 def main():
 	st.title("Hackathon")

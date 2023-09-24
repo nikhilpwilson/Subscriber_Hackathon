@@ -7,7 +7,7 @@ warnings.filterwarnings('ignore')
 
 
 
-df = pd.read_csv('C:/Users/User/inceptez/subscriber/train.csv')
+df = pd.read_csv('train.csv')
 
 
 def main():
